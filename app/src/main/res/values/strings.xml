@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vista_Lista_Expandible</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_drunk__blocker">Drunk_Blocker</string>
+    <string name="title_activity_alarma">Alarma</string>
+
+    <string-array name="opciones">
+        <item>opc1</item>
+        <item>opc2</item>
+        <item>opc3</item>
+        <item>opc4</item>
+    </string-array>
+
+</resources>
